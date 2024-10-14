@@ -1,10 +1,10 @@
 
 
 <a href="#">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?layout=compact&hide_title=true&show_icons=true&count_private=true&username=thiagopintodev" />
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?layout=compact&hide_title=true&show_icons=true&count_private=true&username=ch1ago" />
 </a>
 <a href="#">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&hide_title=true&langs_count=2&username=thiagopintodev" />
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&hide_title=true&langs_count=2&username=ch1ago" />
 </a>
 
 
@@ -13,7 +13,7 @@
 <!--
 ### Hi there 👋
 
-**thiagopintodev/thiagopintodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ch1ago/ch1ago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
